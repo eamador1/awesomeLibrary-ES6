@@ -1,0 +1,1 @@
+# awesomeLibrary-ES6
