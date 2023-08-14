@@ -36,6 +36,7 @@ Use a navigation bar
 
 🚀 Live Demo
 Live Demo Link
+https://eamador1.github.io/awesomeLibrary-ES6/
 (back to top)
 
 💻 Getting Started
