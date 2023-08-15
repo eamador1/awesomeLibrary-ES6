@@ -111,6 +111,7 @@ Clone this repository to your desired folder:
 ## 👤 Collaboration:
 
 Special thaks to Damian Div Bustros who was my coding partner for Awesome Books Project:
+
 **Damian Dib Bustros**
 - GitHub: [@DamianDib9](https://github.com/DamianDib9)
 - LinkedIn: [@DamianDib9](https://ar.linkedin.com/in/damian-dib-bustros-953577261?original_referer=https%3A%2F%2Fwww.google.com%2F)
