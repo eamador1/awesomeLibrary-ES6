@@ -57,7 +57,6 @@ class Library {
     });
   }
 }
- 
 
 document.addEventListener('DOMContentLoaded', () => {
   const myLibrary = new Library();
