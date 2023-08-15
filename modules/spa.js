@@ -9,6 +9,9 @@ const section = () => {
     const $contactInfo = document.querySelector('.contactInform');
     const $footer = document.querySelector('.footer');
 
+    $library.classList.add('active');
+    $awesome.classList.add('active');
+
     $list.addEventListener('click', () => {
       $library.classList.add('active');
       $awesome.classList.add('active');
