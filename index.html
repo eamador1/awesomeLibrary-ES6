@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,700&display=swap"
+    rel="stylesheet">
+  <title>Awesome Library</title>
+</head>
+
+<body>
+
+  <nav id="navBar">
+    <p id="navTitle">Awesome Books</p>
+
+    <ul id="navLinks">
+      <li class="navLinks list"><a>List</a></li>
+      <li class="navLinks separator">|</li>
+      <li class="navLinks new"><a>Add new</a></li>
+      <li class="navLinks separator">|</li>
+      <li id="contactButton" class="navLinks contact"><a>Contact</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <h1 class="awesome">All awesome books</h1>
+  </header>
+  <div class="dateTime">August 14 2023, 7:15:22 pm</div>
+  <section class="displayLibrary">
+    <!-- Library injected here -->
+  </section>
+
+  <section class="add">
+    <h4>Add a new book</h4>
+    <form class="addForm">
+      <label></label>
+      <input type="text" class="title" id="title" placeholder="Title" required>
+      <label></label>
+      <input type="text" class="author" id="author" placeholder="Author" required>
+      <input type="Submit" class="btn" value="Add">
+    </form>
+  </section>
+ <section class="contactInform">
+    <h2 id="contactTitle">Contact Information</h2>
+    <p id="contactP">Do you have any questions or you just want to say "Hello"?
+      you can reach out to us!
+    </p>
+    <ul id="contactList">
+      <li class="contactList">Our e-mail: Mail@.com</li>
+      <li class="contactList">Our phone number: 0043586534422</li>
+      <li class="contactList">Our adress: Streetname 22, 9560
+        City, Country
+      </li>
+    </ul>
+  </section>
+  <footer class="footer">
+    <p id="footerCopy">Copyright</p>
+  </footer>
+  <script type="module" src="./index.js"></script>
+</body>
+
+
+</html>
