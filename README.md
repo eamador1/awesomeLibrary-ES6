@@ -64,7 +64,7 @@ In this project, I took the Awesome books application and keep it fully function
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://eamador1.github.io/awesomeLibrary-ES6/)
+- [Live Demo Link](https://eamador1-awesome-library.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
