@@ -10,7 +10,6 @@
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -91,9 +90,6 @@ Clone this repository to your desired folder:
   git clone git@github.com:eamador1/awesome-library.git
 ```
 
-### Deployment [#deployment]
-
-  https://eamador1-awesome-library.netlify.app/
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,7 +111,7 @@ Clone this repository to your desired folder:
 
 ## 👤 Collaboration:
 
-Special thaks to Damian Div Bustros who was my coding partner for Awesome Books Project:
+Special thanks to Damian Div Bustros who was my coding partner for Awesome Books Project:
 
 **Damian Dib Bustros**
 - GitHub: [@DamianDib9](https://github.com/DamianDib9)
